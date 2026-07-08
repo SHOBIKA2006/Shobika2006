@@ -1,12 +1,11 @@
 # Hi 👋, I'm Shobika K
 
-### VLSI ENGINEERING STUDENT
+### About Me
+* VLSI Design Student
+* FPGA Designer
+* JLPT N5 Certified
+* Embedded Systems
 
-💻 Passionate about VLSI Design, FPGA Development & Digital Hardware
-
-🌱 Currently learning Verilog HDL, RISC-V and Embedded Systems
-
-🎯 Goal: To become a Core VLSI Engineer in Japan 🇯🇵
 
 ---
 
@@ -14,12 +13,8 @@
 
 - Verilog HDL
 - FPGA Design
-- VLSI Design
-- Digital Logic Design
-- Embedded Systems
 - RISC-V
 - C
-- C++
 - Python
 - Java
 
