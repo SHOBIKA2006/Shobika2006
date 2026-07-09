@@ -19,11 +19,3 @@
 - Java
 
 ---
-
-## 📫 Connect with Me
-
-📧 Email: karuppusamyshobika@gmail.com
-
-💼 LinkedIn:https://www.linkedin.com/in/shobika-karuppusamy-728474366/
-
-🌐 Portfolio: https://shobika-portfolio.vercel.app
